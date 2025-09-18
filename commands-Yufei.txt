@@ -1,0 +1,10 @@
+cd CSS2025
+git clone https://github.com/Yufei-He-UCB/Computational-Social-Science-Projects.git
+cd Computational-Social-Science-Projects
+mkdir Project1
+touch commands-Yufei
+vim commands-Yufei
+git add commands-Yufei.txt
+git commit -m "command for Project1"
+git push
+
